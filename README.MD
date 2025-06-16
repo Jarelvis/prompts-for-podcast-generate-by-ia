@@ -63,23 +63,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    <a 
-        href="https://github.com/Jarelvis" 
-        target="_blank" 
-        rel="noopener noreferrer">
-        GitHub
-    </a>
+<p><a href="https://github.com/Jarelvis" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://www.linkedin.com/in/elvis-da-rocha-sant-ana-2167ab260" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
 
-    &nbsp;|&nbsp;
-
-    <a 
-        href="https://www.linkedin.com/in/elvis-da-rocha-sant-ana-2167ab260" 
-        target="_blank" 
-        rel="noopener noreferrer">
-        LinkedIn
-    </a>
-</p>
 
 
 ⌨️ com 💜 por [Elvis da Rocha Sant Ana](https://github.com/jarelvis)

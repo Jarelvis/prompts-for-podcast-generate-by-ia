@@ -63,7 +63,22 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
+<style>
+    .social-links a {
+        text-decoration: none;
+        color: #0366d6;
+        font-weight: bold;
+        margin: 0 10px;
+        transition: color 0.3s;
+    }
+
+    .social-links a:hover {
+        color: #0056b3;
+        text-decoration: underline;
+    }
+</style>
+
+<p class="social-links">
     <a 
         href="https://github.com/Jarelvis" 
         target="_blank" 
@@ -71,7 +86,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         GitHub
     </a>
 
-    &nbsp;|&nbsp;
+    |
 
     <a 
         href="https://www.linkedin.com/in/elvis-da-rocha-sant-ana-2167ab260" 
@@ -80,7 +95,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
 </p>
-
 
 ---
 

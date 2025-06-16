@@ -64,20 +64,22 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    
     <a 
-        href="https://github.com/Jarelvis">
+        href="https://github.com/Jarelvis" 
+        target="_blank" 
+        rel="noopener noreferrer">
         GitHub
     </a>
 
+    &nbsp;|&nbsp;
+
     <a 
-        href="www.linkedin.com/in/elvis-da-rocha-sant-ana-2167ab260">
+        href="https://www.linkedin.com/in/elvis-da-rocha-sant-ana-2167ab260" 
+        target="_blank" 
+        rel="noopener noreferrer">
         LinkedIn
     </a>
-   
 </p>
-<br/><br/>
-<p>
 
 ---
 
